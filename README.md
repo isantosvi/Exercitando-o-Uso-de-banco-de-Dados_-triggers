@@ -1,7 +1,7 @@
 # Exercitando o Usode banco de Dados - Triggers
 
 # 📋 Sobre o Projeto
-Este é um projeto educacional para modelagem de dados , SQL avançado (incluindo triggers e procedimentos armazenados) e análise de dados . Com base em um cenário real de uma hamburgueria, o banco inclui tabelas para clientes, produtos, pedidos e caixa, com gatilhos automatizados para validações e cálculos. 
+Este é um projeto educacional para modelagem de dados , SQL avançado (incluindo triggers e procedimentos armazenados). Com base em um cenário real de uma hamburgueria, o banco inclui tabelas para clientes, produtos, pedidos e caixa, com gatilhos automatizados para validações e cálculos. 
 
 # Objetivo Principal : 
 Demonstrar boas práticas em bancos de dados relacionais, com foco em integridade e automação.
