@@ -6,11 +6,10 @@ Este é um projeto educacional para modelagem de dados , SQL avançado (incluind
 # Objetivo Principal : 
 Demonstrar boas práticas em bancos de dados relacionais, com foco em integridade e automação.
 
-**Gerenciamento de Clientes :** 
-Cadastro com validações (ex.: telefone único, endereço formatado).
-**Controle de Produtos e Estoque :** 
-Atualização automática via gatilhos; alertas para reabastecimento.
-**Pedidos e Itens : Cálculo de totais e lucros;** 
-restrições de horário (ex.: sem pedidos após 22h).
-**Caixa Financeira :** 
-Registro automático de entradas/saídas; auditorias de mudanças.
+**Gerenciamento de Clientes :** Cadastro com validações (ex.: telefone único, endereço formatado).
+
+**Controle de Produtos e Estoque :** Atualização automática via gatilhos; alertas para reabastecimento.
+
+**Pedidos e Itens : Cálculo de totais e lucros;** restrições de horário (ex.: sem pedidos após 22h).
+
+**Caixa Financeira :** Registro automático de entradas/saídas; auditorias de mudanças.
